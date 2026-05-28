@@ -1,0 +1,6 @@
+{
+  "name": "Mintor.in",
+  "description": "Premium futuristic AI search engine and study hub for students, creators, and daily searching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
